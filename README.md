@@ -5,3 +5,4 @@ try:
 ab
 except:
 print 333
+print 222
